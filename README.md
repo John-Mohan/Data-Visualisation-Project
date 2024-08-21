@@ -1,2 +1,2 @@
-# Data-Visualisation-Project s
+# Data-Visualisation-Project
 Sem 1 Project
